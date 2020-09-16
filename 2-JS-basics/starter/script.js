@@ -54,16 +54,47 @@ var  e3years = 3;
 // console.log(firstName + '  ' + lastName);
 
 
-// Basic operators
+// Basic Operators
+// var yearJohn = 2020 -28;
+// var yearMark = 2020- 33;
+// console.log(yearJohn);
+// console.log(yearMark);
+
+// var year = 2020
+// var yearNia = year - 26;
+// var yearMark = year - 33;
+// console.log(yearNia);
+// console.log(yearMark);
+
+// var year, yearJohn, yearMark;
+// now = 2020;
+// Math Operators
+// var yearJohn = now - 26;
+// var yearMark = now - 33;
+
+// console.log(now + 2);
+// console.log(now * 2);
+// console.log(now / 10);
+
+// var year, yearJohn, yearMark;
+// now = 2020;
+// ageJohn = 28;
+// ageMark = 33;
+
+// yearJohn = now - ageJohn;
+// yearMark = now - ageMark;
+
+// console.log(yearJohn);
+// console.log(yearMark);
+
+// Logical Operators
+// var johnOlder = ageJohn < ageMark;
+// console.log(johnOlder);
+
+// typeof operator
+// console.log(typeof johnOlder);
+// console.log(typeof ageJohn);
+// console.log(typeof 'Mark is older than John');
 
 
-var yearJohn = 2020 -28;
-var yearMark = 2020- 33;
-console.log(yearJohn);
-console.log(yearMark);
-
-var year = 2020
-var yearNia = year - 26;
-var yearMark = year - 33;
-console.log(yearNia);
-console.log(yearMark);
+// Operator predence
